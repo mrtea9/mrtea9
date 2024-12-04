@@ -1,5 +1,5 @@
 <div align="center">
-### Hi there 👋, I am Meriacri Ion
+<h1><strong>Hi there 👋, I am Meriacri Ion</strong></h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mrtea9)
 
