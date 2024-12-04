@@ -1,5 +1,7 @@
 ### Hi there 👋, I am Meriacri Ion
 
+![Profile Views](https://komarev.com/ghpvc/?username=mrtea9)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtea9)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtea9&layout=compact)
