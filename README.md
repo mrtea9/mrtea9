@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mrtea9)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtea9)](https://github.com/anuraghazra/github-readme-stats)
+![Ion's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtea9&hide=contribs,prs,stars,issues,contribs&show_icons=true&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtea9&layout=compact)
 </div>
